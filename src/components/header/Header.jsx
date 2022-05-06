@@ -1,6 +1,7 @@
 import React from 'react'
 import './header.css'
 import CTA from './CTA'
+import ME from '../../img/me.jpg'
 
 const header = () => {
   return (
@@ -12,7 +13,7 @@ const header = () => {
             <CTA></CTA>
 
             <div className="me">
-              <img src="" alt="" />
+              <img src={ME} alt="This is me" />
             </div>
         </div>
     </header>
