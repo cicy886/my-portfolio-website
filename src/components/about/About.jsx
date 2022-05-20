@@ -34,43 +34,37 @@ const About = () => {
                     <p>
                         My passion for problem-solving started when I was a
                         child. Every child has their own choice of toys, and I
-                        am always into puzzles and Lego games. After I have
-                        grown up, my habit expends to strategy online games. I
-                        enjoyed putting pieces together and the sense of
-                        achievement after solving a problem. In order to work
-                        towards my goal, I studied communication at Portland
-                        State University because I want to be a QA in a gaming
-                        company, and studying in communication major can help me
-                        sharpen my skills. But I didn’t fulfill my dream after
-                        getting out of school. During a conversation with my
-                        previous classmate, I came across Epicodus, a coding
-                        bootcamp located in Portland Oregon. After attending
-                        Epicodus, I found coding to be the perfect match for my
-                        goal of all time. Now I can build any product I want
-                        through coding! At Epicodus I learned coding languages
-                        for the frontend like HTML, CSS, javaScript, React,
-                        Redux, etc., and for the backend like C#/.Net, SQL,
-                        NoSQL, etc. I also learned the workflow of coding in a
-                        dev team; I learned how to troubleshoot when problems
-                        appear; I learned how to convey my idea clearly by
-                        whiteboarding; I learned how to pick up a new skill
-                        fast, and I learned how to find the right answer through
-                        research. I am determined to work as a developer more
-                        than I had ever been after studying at Epicodus. After
-                        finishing the curriculum at Epicodus, I was fortunate to
-                        work as a full-stack developer at I-ology. I’ve gained
-                        real work experience at I-ology, in the meanwhile I
-                        picked up some new skills like Vue and Sass. I also
-                        learned to work with Cloud technologies. Even after I
-                        finished my internship at I-ology, I am still
-                        enthusiastically learning new skills every day! I am
-                        fully ready to continue my next journey. Without
-                        hesitation, I am looking forward to facing new
-                        challenges, learning more new skills, and building
-                        strong and lasting work relations along the way.
+                        was always into puzzles and Lego games. As an adult, my
+                        hobbies have expanded to online strategy games. I have
+                        always enjoyed putting pieces together and the sense of
+                        achievement after solving a problem. " In order to work
+                        towards my goal of being a developer, I studied
+                        communication at Portland State University and then
+                        full-stack software development at Epicodus BootCamp.
+                        Studying communication sharpened my skills that are
+                        relevant to my work as a developer. Good communication
+                        is key to good working relationships, productivity,
+                        problem-solving, and good work culture. I’ve found
+                        coding to be the perfect match for my goal of all time.
+                        Now I can build any product I want through coding! I’ve
+                        studied coding languages for the frontend like HTML,
+                        CSS, Sass, JavaScript, React, Redux, Vue, etc., and for
+                        the backend like C#/.Net, SQL, NoSQL, etc. I’m
+                        comfortable with the workflow of coding in a dev team,
+                        troubleshooting when problems appear, and conveying my
+                        ideas clearly. I pick up new skills quickly, and I know
+                        how to find the right answer through research. I have
+                        real work experience as a Full Stack Developer and have
+                        worked with Cloud technologies. I am enthusiastically
+                        learning new skills every day! Without hesitation, I am
+                        looking forward to facing new challenges, learning more
+                        new skills, and building strong and lasting work
+                        relations along the way.
                     </p>
 
-                    <a href="#contact" className="btn btn-primary">Let's Talk</a>
+                    <a href="#contact" className="btn btn-primary">
+                        Let's Talk
+                    </a>
                 </div>
             </div>
         </section>
