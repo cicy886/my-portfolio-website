@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-portfolio-website/static/css/main.19d8e447.css",
+    "main.css": "/my-portfolio-website/static/css/main.19923814.css",
     "main.js": "/my-portfolio-website/static/js/main.15032f37.js",
     "static/media/tarot-cards.jpeg": "/my-portfolio-website/static/media/tarot-cards.190b00ecc321cdaebf00.jpeg",
     "static/media/tamagotchi.jpg": "/my-portfolio-website/static/media/tamagotchi.d0348f59268aed40850f.jpg",
@@ -12,11 +12,11 @@
     "static/media/Sisi Vieira Resume.pdf": "/my-portfolio-website/static/media/Sisi Vieira Resume.95e3c5b4b898c78da84e.pdf",
     "static/media/treats.jpg": "/my-portfolio-website/static/media/treats.7728f9e9955af6e6c7dd.jpg",
     "index.html": "/my-portfolio-website/index.html",
-    "main.19d8e447.css.map": "/my-portfolio-website/static/css/main.19d8e447.css.map",
+    "main.19923814.css.map": "/my-portfolio-website/static/css/main.19923814.css.map",
     "main.15032f37.js.map": "/my-portfolio-website/static/js/main.15032f37.js.map"
   },
   "entrypoints": [
-    "static/css/main.19d8e447.css",
+    "static/css/main.19923814.css",
     "static/js/main.15032f37.js"
   ]
 }
