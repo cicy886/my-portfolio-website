@@ -61,59 +61,59 @@ const Portfolio = ({ demo }) => {
             <div className="container portfolio__container">
                 {data.map(({ id, image, title, github, demo }) => {
                     if (demo != null) {
-                      return (
-                        <article key={id} className="portfolio__item">
-                            <div className="portfolio__item-image">
-                                <img
-                                    src={image}
-                                    alt={title}
-                                    className="img__size"
-                                />
-                            </div>
-                            <h3>{title}</h3>
-                            <div className="portfolio__item-cta">
-                                <a
-                                    href={github}
-                                    className="btn"
-                                    target="_blank"
-                                    rel="noreferrer"
-                                >
-                                    Github
-                                </a>
-                                <a
-                                    href={demo}
-                                    className="btn btn-primary"
-                                    target="_blank"
-                                    rel="noreferrer"
-                                >
-                                    Live Demo
-                                </a>
-                            </div>
-                        </article>
-                    );
+                        return (
+                            <article key={id} className="portfolio__item">
+                                <div className="portfolio__item-image">
+                                    <img
+                                        src={image}
+                                        alt={title}
+                                        className="img__size"
+                                    />
+                                </div>
+                                <h3>{title}</h3>
+                                <div className="portfolio__item-cta">
+                                    <a
+                                        href={github}
+                                        className="btn"
+                                        target="_blank"
+                                        rel="noreferrer"
+                                    >
+                                        Github
+                                    </a>
+                                    <a
+                                        href={demo}
+                                        className="btn btn-primary"
+                                        target="_blank"
+                                        rel="noreferrer"
+                                    >
+                                        Live Demo
+                                    </a>
+                                </div>
+                            </article>
+                        );
                     } else {
-                      return (
-                        <article key={id} className="portfolio__item">
-                            <div className="portfolio__item-image">
-                                <img
-                                    src={image}
-                                    alt={title}
-                                    className="img__size"
-                                />
-                            </div>
-                            <h3>{title}</h3>
-                            <div className="portfolio__item-cta">
-                                <a
-                                    href={github}
-                                    className="btn"
-                                    target="_blank"
-                                    rel="noreferrer"
-                                >
-                                    Github
-                                </a>
-                            </div>
-                        </article>
-                    );
+                        return (
+                            <article key={id} className="portfolio__item">
+                                <div className="portfolio__item-image">
+                                    <img
+                                        src={image}
+                                        alt={title}
+                                        className="img__size"
+                                    />
+                                </div>
+                                <h3>{title}</h3>
+                                <div className="portfolio__item-cta">
+                                    <a
+                                        href={github}
+                                        className="btn"
+                                        target="_blank"
+                                        rel="noreferrer"
+                                    >
+                                        Github
+                                    </a>
+                                </div>
+                            </article>
+                        );
                     }
                 })}
             </div>
